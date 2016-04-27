@@ -17,3 +17,4 @@ If finds pointer to nested struct, then creates struct.
 
 Check doc.go for details.
 
+Copyright (C) Tad Vizbaras, MIT license.
